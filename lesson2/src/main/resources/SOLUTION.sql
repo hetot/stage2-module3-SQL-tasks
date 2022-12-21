@@ -4,7 +4,7 @@ insert into student (name, birthday, groupnumber) values ('Carl', '1974-03-09', 
 insert into student (name, birthday, groupnumber) values ('Oliver', '1974-03-09', 2);
 insert into student (name, birthday, groupnumber) values ('James', '1974-03-09', 2);
 insert into student (name, birthday, groupnumber) values ('Lucas', '1974-03-09', 2);
-insert into student (name, birthday, groupnumber) values ('Hendry', '1974-03-09', 2);
+insert into student (name, birthday, groupnumber) values ('Henry', '1974-03-09', 2);
 insert into student (name, birthday, groupnumber) values ('Jacob', '1974-03-09', 3);
 insert into student (name, birthday, groupnumber) values ('Logan', '1974-03-09', 3);
 insert into student (name, birthday, groupnumber) values ('Jahon', '1974-03-09', 5);
